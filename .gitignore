@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+cryptoApp_in.txt
+cryptoApp_out.txt
+cesarKey.txt
+ClassAsymetric.pyc
+ClassCesar.pyc
+ClassErrorsManager.pyc
+ClassParameters.pyc
+ClassSymetric.pyc

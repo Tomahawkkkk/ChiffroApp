@@ -1,0 +1,7 @@
+matplotlib
+pytest
+pylint
+pytest-cov
+coverage
+unidecode
+cryptography

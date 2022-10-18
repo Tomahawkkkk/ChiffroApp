@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+matplotlib = "*"
+pytest = "*"
+pylint = "*"
+pytest-cov = "*"
+coverage = "*"
+cryptography = "*"
+Unidecode = "*"
+requests = "*"
+
+[requires]
+python_version = "3.6"
